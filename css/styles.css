@@ -1,13 +1,13 @@
 .forestpic{
-   width: 100%
-   padding: 25px;
-   border: 25px solid green;
-   float:right;
+  width: 100%
+  padding: 25px;
+  border: 25px solid green;
+  float:right;
 }
 
 .pastassignments{
-    float: center;
-    margin: 0 0 10px 10px;
+  float: center;
+  margin: 0 0 10px 10px;
 }
 
 .row{
